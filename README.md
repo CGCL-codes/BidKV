@@ -1,5 +1,7 @@
 # BidKV
 
+Organization: [VLLM-HUST](https://github.com/vLLM-HUST)
+
 Framework-portable KV cache request scheduling primitive.
 
 [中文文档](README_zh.md)

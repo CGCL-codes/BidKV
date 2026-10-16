@@ -1,5 +1,7 @@
 # BidKV
 
+组织：[VLLM-HUST](https://github.com/vLLM-HUST)
+
 跨框架可移植的 KV cache 请求调度原语。
 
 [English](README.md)
